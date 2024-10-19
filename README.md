@@ -9,4 +9,3 @@
 # Ekran görüntüsü
 
 # ![](bas.gif)
-# React-roter-dom-Kitapl-k
